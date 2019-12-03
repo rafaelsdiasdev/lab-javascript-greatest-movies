@@ -2000,3 +2000,5 @@ let movies = [
     rate: '8.0'
   }
 ];
+
+module.exports = listMovies
